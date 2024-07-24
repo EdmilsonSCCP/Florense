@@ -1,0 +1,744 @@
+<!DOCTYPE html>
+<html lang="pt">
+    <head>
+        <meta charSet="utf-8"/>
+        <meta name="viewport" content="width=device-width"/>
+        <link rel="preload" as="image" imageSrcSet="/_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners3_iQr2SL2.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners3_iQr2SL2.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners3_iQr2SL2.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners3_iQr2SL2.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners3_iQr2SL2.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners3_iQr2SL2.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners3_iQr2SL2.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners3_iQr2SL2.jpg&amp;w=3840&amp;q=75 3840w" imageSizes="100vw" fetchpriority="high"/>
+        <link rel="preload" as="image" imageSrcSet="/_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners2_KyX3dm2.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners2_KyX3dm2.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners2_KyX3dm2.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners2_KyX3dm2.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners2_KyX3dm2.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners2_KyX3dm2.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners2_KyX3dm2.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners2_KyX3dm2.jpg&amp;w=3840&amp;q=75 3840w" imageSizes="100vw" fetchpriority="high"/>
+        <link rel="preload" as="image" imageSrcSet="/_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners_IYzdP2D.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners_IYzdP2D.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners_IYzdP2D.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners_IYzdP2D.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners_IYzdP2D.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners_IYzdP2D.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners_IYzdP2D.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners_IYzdP2D.jpg&amp;w=3840&amp;q=75 3840w" imageSizes="100vw" fetchpriority="high"/>
+        <meta name="next-head-count" content="5"/>
+        <link rel="preload" href="/_next/static/css/0cf9eca2b4579da1.css" as="style"/>
+        <link rel="stylesheet" href="/_next/static/css/0cf9eca2b4579da1.css" data-n-g=""/>
+        <link rel="preload" href="/_next/static/css/ae6d61b561039e21.css" as="style"/>
+        <link rel="stylesheet" href="/_next/static/css/ae6d61b561039e21.css" data-n-p=""/>
+        <link rel="preload" href="/_next/static/css/6c387b77e4b4da23.css" as="style"/>
+        <link rel="stylesheet" href="/_next/static/css/6c387b77e4b4da23.css" data-n-p=""/>
+        <noscript data-n-css=""></noscript>
+        <script defer="" nomodule="" src="/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js"></script>
+        <script src="/_next/static/chunks/webpack-e6162813c4e9caa0.js" defer=""></script>
+        <script src="/_next/static/chunks/framework-2c79e2a64abdb08b.js" defer=""></script>
+        <script src="/_next/static/chunks/main-3b38034e02bd7e83.js" defer=""></script>
+        <script src="/_next/static/chunks/pages/_app-65db0ad373f64901.js" defer=""></script>
+        <script src="/_next/static/chunks/95b64a6e-8fca48ad69f60b83.js" defer=""></script>
+        <script src="/_next/static/chunks/ae51ba48-8c397131b3dd9cc4.js" defer=""></script>
+        <script src="/_next/static/chunks/893-54557b9598758363.js" defer=""></script>
+        <script src="/_next/static/chunks/105-48faa6b809d4be99.js" defer=""></script>
+        <script src="/_next/static/chunks/752-b178495bdc4ef6f9.js" defer=""></script>
+        <script src="/_next/static/chunks/pages/index-2af93048ecbb10a3.js" defer=""></script>
+        <script src="/_next/static/KF9_9Ei4NKNqdwFBt9d1a/_buildManifest.js" defer=""></script>
+        <script src="/_next/static/KF9_9Ei4NKNqdwFBt9d1a/_ssgManifest.js" defer=""></script>
+    </head>
+    <body>
+        <div id="__next">
+            <div class="MainLayout_layoutContainer__U0yO7">
+                <nav>
+                    <div class="Navbar_navbarContainer__un8ww" style="fill:rgba(255,255,255,.999);background:rgba(255,255,255,0);margin-top:0rem">
+                        <div class="Navbar_navbarButtonContainer__9_YKs" style="fill:#fff">
+                            <button class="MenuButton_menuButton__13tc8">
+                                <svg width="40" height="40" viewBox="0 0 500 500">
+                                    <path d="M481.5,495.32h-463V212.86L250,4.68l231.5,208.19V495.32z M51.5,462.32h397V227.57L250,49.06L51.5,227.57V462.32z" opacity="1"></path>
+                                    <polygon points="471.19,454.43 271.58,250 471.18,45.57 449.09,24 250,227.9 50.91,24 28.82,45.57 228.42,250 28.81,454.43   50.91,476 250,272.1 449.09,476 " opacity="0"></polygon>
+                                </svg>
+                            </button>
+                        </div>
+                        <a class="Navbar_navbarLink__8zP9K" href="/">
+                            <svg viewBox="0 0 453.54 105.22" width="185" height="50" fill="#1D1D1B" class="Logo_logo___yD0t">
+                                <polygon points="238.51 13.36 269.88 13.36 269.88 0.88 224.03 0.88 224.03 56.39 269.88 56.39 269.88 43.91 238.51 43.91 238.51 34.88 269.88 34.88 269.88 22.4 238.51 22.4 238.51 13.36"></polygon>
+                                <polygon points="422.16 13.36 453.54 13.36 453.54 0.88 407.69 0.88 407.69 56.39 453.54 56.39 453.54 43.91 422.16 43.91 422.16 34.88 453.54 34.88 453.54 22.4 422.16 22.4 422.16 13.36"></polygon>
+                                <polygon points="69.42 0.88 55.22 0.88 55.22 56.39 97.65 56.39 97.65 43.91 69.42 43.91 69.42 0.88"></polygon>
+                                <polygon points="45.55 13.36 45.55 0.88 0 0.88 0 56.39 14.18 56.39 14.18 34.88 45.55 34.88 45.55 22.4 14.18 22.4 14.18 13.36 45.55 13.36"></polygon>
+                                <g>
+                                    <path d="M325.33,289.75a16.15,16.15,0,1,1,15.83-16.14,16,16,0,0,1-15.83,16.14m0-44.72c-16.39,0-29.72,12.84-29.72,28.63S309,302.3,325.37,302.3s29.71-12.85,29.71-28.64S341.75,245,325.37,245" transform="translate(-198.43 -245.03)"></path>
+                                </g>
+                                <polygon points="280.3 0.88 280.3 56.39 294.55 56.39 294.55 20.63 322.99 56.39 337.98 56.39 337.98 0.88 323.75 0.88 323.75 36.67 295.3 0.88 280.3 0.88"></polygon>
+                                <g>
+                                    <path d="M395.3,267.42h-19v-9H395a4.45,4.45,0,0,1,4.52,4.46c-.05,1.88-1.21,4.57-4.21,4.57m1.64-21.51-.68,0-34.18,0v55.51h14.18V279.91H385l15.63,21.51h15.27l-15.51-21.3.65-.18a17.32,17.32,0,0,0-3.34-34s-.3,0-.74,0" transform="translate(-198.43 -245.03)"></path>
+                                    <path d="M578,267.42H562.51c-3,0-4.2-2.88-4.2-4.88,0-1.79,1.28-5.07,4.51-5.07h17.06c2.49,0,3.79,2.49,4.28,4h14.06a17,17,0,0,0-11.72-14.78c-2.9-1-8.66-1.69-15.31-1.69-6.38,0-11.94.63-14.94,1.57a16.94,16.94,0,0,0-7.81,27.58,10.44,10.44,0,0,0,1.5,1.49,16.92,16.92,0,0,0,11.13,4.18c.52,0,2.9,0,3.45,0H580c3,0,4.21,2.88,4.21,4.89s-1.29,5-4.52,5H562.58c-2.48,0-3.78-2.39-4.27-3.94h-14A17,17,0,0,0,557.69,301a62.84,62.84,0,0,0,13.65,1.26,64.48,64.48,0,0,0,13.38-1.19,16.95,16.95,0,0,0,9.36-28,11,11,0,0,0-1.5-1.49,16.92,16.92,0,0,0-11.13-4.17" transform="translate(-198.43 -245.03)"></path>
+                                </g>
+                                <path d="M404.08,333.94c-3.56-.63-8.49-1.38-8.61-5.16-.11-3.62,4.13-5.11,8.55-5.06,3.16,0,6,.46,8.84,3l1.91-2-.56-.53a13.82,13.82,0,0,0-4.86-2.6,18.37,18.37,0,0,0-5.31-.66c-4,0-7.43,1.09-9.41,3.12a6.49,6.49,0,0,0-.47,8.81,8.42,8.42,0,0,0,3,2.19,25.7,25.7,0,0,0,6.1,1.62l1,.18a23,23,0,0,1,6.63,1.76,3.36,3.36,0,0,1,2.07,3.56v0a4.2,4.2,0,0,1-2.52,3.9,14,14,0,0,1-6.32,1.29c-4.42,0-8.27-1.69-10-4.41l-.25-.37-2.11,1.91c2.47,3.78,7.41,5.68,12.4,5.68s11.48-1.67,11.65-7.92c.29-6.6-6.66-7.47-11.71-8.33" transform="translate(-198.43 -245.03)"></path>
+                                <rect x="137.08" y="76.23" width="2.81" height="28.47"></rect>
+                                <path d="M370.55,321.48l-.22-.06a14.44,14.44,0,0,0-2-.4,18.3,18.3,0,0,0-2-.16h-.27a18.09,18.09,0,0,0-1.95.16,14.87,14.87,0,0,0-2.05.4l-.22.06c-5.15,1.47-8.48,5.64-8.48,11.89v16.36h2.82V333.37c0-4.73,2.27-8,6.41-9.18h0l.21-.06a12.42,12.42,0,0,1,1.64-.32h0c.58-.07,1.11-.11,1.63-.13h.17c.52,0,1,.06,1.63.13h0a11.33,11.33,0,0,1,1.64.33l.21.05h0c4.13,1.19,6.41,4.45,6.41,9.18v16.36H379V333.37c0-6.25-3.32-10.42-8.48-11.89" transform="translate(-198.43 -245.03)"></path>
+                                <rect x="229.19" y="76.23" width="2.81" height="28.47"></rect>
+                                <path d="M471.24,335.49h0v-21.3h-2.81V326.5a13.56,13.56,0,0,0-1.35-1.58,14.21,14.21,0,0,0-10.24-4,15.88,15.88,0,0,0-5.45.8,13.13,13.13,0,0,0-4.67,2.83c-2.81,2.66-4.29,6.46-4.29,11a14.55,14.55,0,0,0,4.29,10.93,13.13,13.13,0,0,0,4.66,2.85,16,16,0,0,0,5.46.91,14.25,14.25,0,0,0,10.3-4.16,13.39,13.39,0,0,0,1.29-1.53v5.18h2.81V335.49Zm-14.4,11.94c-6.38,0-11.6-4-11.6-11.88s5.22-11.83,11.6-11.83c6.54,0,11.59,4.71,11.59,11.77s-4.93,11.94-11.59,11.94" transform="translate(-198.43 -245.03)"></path>
+                                <path d="M513.8,336.87c1.09-11.08-6-16-14-16a14.26,14.26,0,0,0-14.41,14.64c0,.13,0,.26,0,.39v.1c0,.1,0,.19,0,.29a.41.41,0,0,0,0,.11c0,.09,0,.19,0,.28s0,.07,0,.11v0c.6,8.23,6.78,13.26,14.36,13.26,4.52,0,9.45-1.83,12.21-5.42L509.84,343a15.09,15.09,0,0,1-1.49,1.47,11.79,11.79,0,0,1-2.88,1.71,14.63,14.63,0,0,1-5.68,1.15,13,13,0,0,1-4.61-.82,11,11,0,0,1-3.63-2.3,10.81,10.81,0,0,1-3-5.31s-.17-.9-.33-2ZM491.58,327a11.51,11.51,0,0,1,8.21-3.32c3.69,0,6.8,1.2,8.77,3.37a10.58,10.58,0,0,1,2.53,7H488.28a11.67,11.67,0,0,1,3.3-7" transform="translate(-198.43 -245.03)"></path>
+                            </svg>
+                        </a>
+                    </div>
+                    <div class="Menu_menuContainer__67Ul0">
+                        <div class="Menu_menuContent__uPVMw">
+                            <div class="Menu_menuButtonContainer__oQTJ4" style="fill:#fff">
+                                <button class="MenuButton_menuButton__13tc8">
+                                    <svg width="40" height="40" viewBox="0 0 500 500">
+                                        <path d="M481.5,495.32h-463V212.86L250,4.68l231.5,208.19V495.32z M51.5,462.32h397V227.57L250,49.06L51.5,227.57V462.32z" opacity="1"></path>
+                                        <polygon points="471.19,454.43 271.58,250 471.18,45.57 449.09,24 250,227.9 50.91,24 28.82,45.57 228.42,250 28.81,454.43   50.91,476 250,272.1 449.09,476 " opacity="0"></polygon>
+                                    </svg>
+                                </button>
+                            </div>
+                            <div class="Menu_menuItemsContainer__oAaJP" style="pointer-events:none">
+                                <ul class="Menu_menuItems__ZVDub" style="height:0px">
+                                    <li class="MenuItem_menuItemContainer__IS1Kq" style="opacity:0;transform:translateX(-10px) translateZ(0)">
+                                        <a class="MenuItem_menuItemLink__UQZTh" href="/grupos-de-produtos/portas-aluminio-pt">Portas de Alumínio</a>
+                                    </li>
+                                    <li class="MenuItem_menuItemContainer__IS1Kq" style="opacity:0;transform:translateX(-10px) translateZ(0)">
+                                        <a class="MenuItem_menuItemLink__UQZTh" href="/grupos-de-produtos/portas-madeira-pt">Portas de Madeira</a>
+                                    </li>
+                                    <li class="MenuItem_menuItemContainer__IS1Kq" style="opacity:0;transform:translateX(-10px) translateZ(0)">
+                                        <a class="MenuItem_menuItemLink__UQZTh" href="/grupos-de-produtos/sistema-aluminio-pt">Revestimentos</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="Menu_menuActionsContainer__EcbXD" style="fill:#fff">
+                                <div class="MenuActions_menuActions__WtKi_">
+                                    <a class="MenuActions_menuActionsLink__lq_wt" target="_blank" href="https://www.instagram.com/florenseoficial">
+                                        <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="instagram_svg__Layer_1" x="0" y="0" style="enable-background:new 0 0 500 500" viewBox="0 0 500 500" width="25" height="25">
+                                            <style>
+                                                .instagram_svg__st0,.instagram_svg__st1,.instagram_svg__st2 {
+                                                    fill: none;
+                                                    stroke: #000;
+                                                    stroke-width: 33
+                                                }
+
+                                                .instagram_svg__st1,.instagram_svg__st2 {
+                                                    stroke-width: 47.4811
+                                                }
+
+                                                .instagram_svg__st2 {
+                                                    stroke-width: 32.161
+                                                }
+                                            </style>
+                                            <path d="M410.63 144.87c26.38 0 47.79-21.36 47.79-47.79 0-26.32-21.41-47.79-47.79-47.79-26.4 0-47.79 21.47-47.79 47.79 0 26.43 21.39 47.79 47.79 47.79M205.85 450.71c-90.58 0-164.28-73.71-164.28-164.3 0-90.6 73.69-164.3 164.28-164.3s164.28 73.71 164.28 164.3c0 90.6-73.69 164.3-164.28 164.3zm0-281.12c-64.4 0-116.8 52.41-116.8 116.82s52.39 116.82 116.8 116.82 116.8-52.41 116.8-116.82-52.39-116.82-116.8-116.82z"></path>
+                                        </svg>
+                                    </a>
+                                    <a class="MenuActions_menuActionsLink__lq_wt MenuActions_menuActionsLinkFacebook__QUOmr" target="_blank" href="https://www.facebook.com/florensemoveis/">
+                                        <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="facebook_svg__Layer_1" x="0" y="0" style="enable-background:new 0 0 500 500" viewBox="0 0 500 500" width="25" height="25">
+                                            <style>
+                                                .facebook_svg__st0,.facebook_svg__st1,.facebook_svg__st2 {
+                                                    fill: none;
+                                                    stroke: #000;
+                                                    stroke-width: 33
+                                                }
+
+                                                .facebook_svg__st1,.facebook_svg__st2 {
+                                                    stroke-width: 47.4811
+                                                }
+
+                                                .facebook_svg__st2 {
+                                                    stroke-width: 32.161
+                                                }
+                                            </style>
+                                            <path d="M207.29 450.74V267.85h-61.42v-71.57h61.42v-52.67c0-61.1 37.3-94.36 91.78-94.36 26.11 0 48.53 1.96 55.08 2.83v63.83h-37.57c-29.66 0-35.39 14.11-35.39 34.77v45.6h70.87l-9.22 71.57h-61.65v182.89"></path>
+                                        </svg>
+                                    </a>
+                                    <a class="MenuActions_menuActionsLink__lq_wt" href="/favoritos">
+                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" width="20" height="20" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M463 192H315.9L271.2 58.6C269 52.1 262.9 48 256 48s-13 4.1-15.2 10.6L196.1 192H48c-8.8 0-16 7.2-16 16 0 .9.1 1.9.3 2.7.2 3.5 1.8 7.4 6.7 11.3l120.9 85.2-46.4 134.9c-2.3 6.5 0 13.8 5.5 18 2.9 2.1 5.6 3.9 9 3.9 3.3 0 7.2-1.7 10-3.6l118-84.1 118 84.1c2.8 2 6.7 3.6 10 3.6 3.4 0 6.1-1.7 8.9-3.9 5.6-4.2 7.8-11.4 5.5-18L352 307.2l119.9-86 2.9-2.5c2.6-2.8 5.2-6.6 5.2-10.7 0-8.8-8.2-16-17-16z"></path>
+                                        </svg>
+                                    </a>
+                                    <a class="MenuActions_menuActionsLink__lq_wt" href="/pesquisa">
+                                        <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="search_svg__Layer_1" x="0" y="0" style="enable-background:new 0 0 500 500" viewBox="0 0 500 500" width="25" height="25">
+                                            <style>
+                                                .search_svg__st0,.search_svg__st1,.search_svg__st2 {
+                                                    fill: none;
+                                                    stroke: #000;
+                                                    stroke-width: 33
+                                                }
+
+                                                .search_svg__st1,.search_svg__st2 {
+                                                    stroke-width: 47.4811
+                                                }
+
+                                                .search_svg__st2 {
+                                                    stroke-width: 32.161
+                                                }
+                                            </style>
+                                            <path d="M445.61 419.31 326.93 300.63c22.54-26.84 36.15-61.43 36.15-99.15 0-85.12-69.24-154.37-154.34-154.37-85.1 0-154.34 69.25-154.34 154.37s69.24 154.37 154.34 154.37c30.27 0 58.52-8.77 82.38-23.88l120.92 120.92 33.57-33.58zM101.87 201.48c0-58.94 47.94-106.89 106.86-106.89s106.86 47.95 106.86 106.89-47.94 106.89-106.86 106.89-106.86-47.95-106.86-106.89z"></path>
+                                        </svg>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="Menu_menuBackground__TEHk2" style="opacity:0"></div>
+                    </div>
+                </nav>
+                <main class="MainLayout_layoutPageContainer__Cg1fx">
+                    <section>
+                        <div class="BannersList_bannersListContainer__LyVzC">
+                            <div class="BannersListItem_bannersListItemContainer__VYiix">
+                                <div class="react-parallax " style="position:relative;overflow:hidden">
+                                    <div class="react-parallax-background-children" style="position:absolute;left:50%;-webkit-transform:translate3d(-50%, 0, 0);transform:translate3d(-50%, 0, 0);-webkit-transform-style:preserve-3d;-webkit-backface-visibility:hidden;-moz-backface-visibility:hidden;-ms-backface-visibility:hidden">
+                                        <div class="react-parallax-background BannersListItem_bannersListItemBackground__wFnrr">
+                                            <div class="ImageBackground_imageBackground__SJ3M3 ImageBackground_imageBackgroundPlaceholder__Fc_CO BannersListItem_bannersListItemBackgroundImage__qzliS">
+                                                <img alt="Banner background image" fetchpriority="high" decoding="async" data-nimg="fill" class="Image_image__7bYel" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:cover;object-position:center center;color:transparent" sizes="100vw" srcSet="/_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners3_iQr2SL2.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners3_iQr2SL2.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners3_iQr2SL2.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners3_iQr2SL2.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners3_iQr2SL2.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners3_iQr2SL2.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners3_iQr2SL2.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners3_iQr2SL2.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners3_iQr2SL2.jpg&amp;w=3840&amp;q=75"/>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="react-parallax-content" style="position:relative"></div>
+                                </div>
+                            </div>
+                            <div class="BannersListItem_bannersListItemContainer__VYiix">
+                                <div class="react-parallax " style="position:relative;overflow:hidden">
+                                    <div class="react-parallax-background-children" style="position:absolute;left:50%;-webkit-transform:translate3d(-50%, 0, 0);transform:translate3d(-50%, 0, 0);-webkit-transform-style:preserve-3d;-webkit-backface-visibility:hidden;-moz-backface-visibility:hidden;-ms-backface-visibility:hidden">
+                                        <div class="react-parallax-background BannersListItem_bannersListItemBackground__wFnrr">
+                                            <div class="ImageBackground_imageBackground__SJ3M3 ImageBackground_imageBackgroundPlaceholder__Fc_CO BannersListItem_bannersListItemBackgroundImage__qzliS">
+                                                <img alt="Banner background image" fetchpriority="high" decoding="async" data-nimg="fill" class="Image_image__7bYel" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:cover;object-position:center center;color:transparent" sizes="100vw" srcSet="/_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners2_KyX3dm2.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners2_KyX3dm2.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners2_KyX3dm2.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners2_KyX3dm2.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners2_KyX3dm2.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners2_KyX3dm2.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners2_KyX3dm2.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners2_KyX3dm2.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners2_KyX3dm2.jpg&amp;w=3840&amp;q=75"/>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="react-parallax-content" style="position:relative">
+                                        <div class="BannersListItem_bannersListItemContent__VQsq_">
+                                            <h2 class="BannersListItem_bannersListItemTitle__6W_XI">VÍDEOS INSIDE</h2>
+                                            <a class="BannersListItem_bannersListItemLink__W0nrr BannersListItem_bannersListItemSubtitle__OJF1Z" href="/institucional">ASSISTA</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="BannersListItem_bannersListItemContainer__VYiix">
+                                <div class="react-parallax " style="position:relative;overflow:hidden">
+                                    <div class="react-parallax-background-children" style="position:absolute;left:50%;-webkit-transform:translate3d(-50%, 0, 0);transform:translate3d(-50%, 0, 0);-webkit-transform-style:preserve-3d;-webkit-backface-visibility:hidden;-moz-backface-visibility:hidden;-ms-backface-visibility:hidden">
+                                        <div class="react-parallax-background BannersListItem_bannersListItemBackground__wFnrr">
+                                            <div class="ImageBackground_imageBackground__SJ3M3 ImageBackground_imageBackgroundPlaceholder__Fc_CO BannersListItem_bannersListItemBackgroundImage__qzliS">
+                                                <img alt="Banner background image" fetchpriority="high" decoding="async" data-nimg="fill" class="Image_image__7bYel" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:cover;object-position:center center;color:transparent" sizes="100vw" srcSet="/_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners_IYzdP2D.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners_IYzdP2D.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners_IYzdP2D.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners_IYzdP2D.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners_IYzdP2D.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners_IYzdP2D.jpg&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners_IYzdP2D.jpg&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners_IYzdP2D.jpg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Frepos.flomagazine.com.br%2Fmedia%2Fimagem%2FBanners_IYzdP2D.jpg&amp;w=3840&amp;q=75"/>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="react-parallax-content" style="position:relative">
+                                        <div class="BannersListItem_bannersListItemContent__VQsq_">
+                                            <a class="BannersListItem_bannersListItemLink__W0nrr BannersListItem_bannersListItemSubtitle__OJF1Z" href="/franquias">Encontre as Lojas</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </main>
+                <div class="Footer_footerContainer__vcVmy">
+                    <div class="Footer_footerContentContainer__xqiUj">
+                        <div class="Footer_footerActions__qLjSR">
+                            <div class="MenuActions_menuActions__WtKi_">
+                                <a class="MenuActions_menuActionsLink__lq_wt" target="_blank" href="https://www.instagram.com/florenseoficial">
+                                    <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="instagram_svg__Layer_1" x="0" y="0" style="enable-background:new 0 0 500 500" viewBox="0 0 500 500" width="25" height="25">
+                                        <style>
+                                            .instagram_svg__st0,.instagram_svg__st1,.instagram_svg__st2 {
+                                                fill: none;
+                                                stroke: #000;
+                                                stroke-width: 33
+                                            }
+
+                                            .instagram_svg__st1,.instagram_svg__st2 {
+                                                stroke-width: 47.4811
+                                            }
+
+                                            .instagram_svg__st2 {
+                                                stroke-width: 32.161
+                                            }
+                                        </style>
+                                        <path d="M410.63 144.87c26.38 0 47.79-21.36 47.79-47.79 0-26.32-21.41-47.79-47.79-47.79-26.4 0-47.79 21.47-47.79 47.79 0 26.43 21.39 47.79 47.79 47.79M205.85 450.71c-90.58 0-164.28-73.71-164.28-164.3 0-90.6 73.69-164.3 164.28-164.3s164.28 73.71 164.28 164.3c0 90.6-73.69 164.3-164.28 164.3zm0-281.12c-64.4 0-116.8 52.41-116.8 116.82s52.39 116.82 116.8 116.82 116.8-52.41 116.8-116.82-52.39-116.82-116.8-116.82z"></path>
+                                    </svg>
+                                </a>
+                                <a class="MenuActions_menuActionsLink__lq_wt MenuActions_menuActionsLinkFacebook__QUOmr" target="_blank" href="https://www.facebook.com/florensemoveis/">
+                                    <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="facebook_svg__Layer_1" x="0" y="0" style="enable-background:new 0 0 500 500" viewBox="0 0 500 500" width="25" height="25">
+                                        <style>
+                                            .facebook_svg__st0,.facebook_svg__st1,.facebook_svg__st2 {
+                                                fill: none;
+                                                stroke: #000;
+                                                stroke-width: 33
+                                            }
+
+                                            .facebook_svg__st1,.facebook_svg__st2 {
+                                                stroke-width: 47.4811
+                                            }
+
+                                            .facebook_svg__st2 {
+                                                stroke-width: 32.161
+                                            }
+                                        </style>
+                                        <path d="M207.29 450.74V267.85h-61.42v-71.57h61.42v-52.67c0-61.1 37.3-94.36 91.78-94.36 26.11 0 48.53 1.96 55.08 2.83v63.83h-37.57c-29.66 0-35.39 14.11-35.39 34.77v45.6h70.87l-9.22 71.57h-61.65v182.89"></path>
+                                    </svg>
+                                </a>
+                                <a class="MenuActions_menuActionsLink__lq_wt" href="/favoritos">
+                                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" width="20" height="20" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M463 192H315.9L271.2 58.6C269 52.1 262.9 48 256 48s-13 4.1-15.2 10.6L196.1 192H48c-8.8 0-16 7.2-16 16 0 .9.1 1.9.3 2.7.2 3.5 1.8 7.4 6.7 11.3l120.9 85.2-46.4 134.9c-2.3 6.5 0 13.8 5.5 18 2.9 2.1 5.6 3.9 9 3.9 3.3 0 7.2-1.7 10-3.6l118-84.1 118 84.1c2.8 2 6.7 3.6 10 3.6 3.4 0 6.1-1.7 8.9-3.9 5.6-4.2 7.8-11.4 5.5-18L352 307.2l119.9-86 2.9-2.5c2.6-2.8 5.2-6.6 5.2-10.7 0-8.8-8.2-16-17-16z"></path>
+                                    </svg>
+                                </a>
+                                <a class="MenuActions_menuActionsLink__lq_wt" href="/pesquisa">
+                                    <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="search_svg__Layer_1" x="0" y="0" style="enable-background:new 0 0 500 500" viewBox="0 0 500 500" width="25" height="25">
+                                        <style>
+                                            .search_svg__st0,.search_svg__st1,.search_svg__st2 {
+                                                fill: none;
+                                                stroke: #000;
+                                                stroke-width: 33
+                                            }
+
+                                            .search_svg__st1,.search_svg__st2 {
+                                                stroke-width: 47.4811
+                                            }
+
+                                            .search_svg__st2 {
+                                                stroke-width: 32.161
+                                            }
+                                        </style>
+                                        <path d="M445.61 419.31 326.93 300.63c22.54-26.84 36.15-61.43 36.15-99.15 0-85.12-69.24-154.37-154.34-154.37-85.1 0-154.34 69.25-154.34 154.37s69.24 154.37 154.34 154.37c30.27 0 58.52-8.77 82.38-23.88l120.92 120.92 33.57-33.58zM101.87 201.48c0-58.94 47.94-106.89 106.86-106.89s106.86 47.95 106.86 106.89-47.94 106.89-106.86 106.89-106.86-47.95-106.86-106.89z"></path>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="Footer_footerColumnsContainer___69Zf">
+                            <div class="Footer_footerColumn__5YSGH">
+                                <ul class="Footer_footerList__2d0L6 Footer_footerListProducts__a8LgM">
+                                    <li class="Footer_footerListItem__8rISt">
+                                        <a class="Footer_footerLink__ZTSoQ" href="/grupos-de-produtos/portas-aluminio-pt">
+                                            <h3 class="Footer_footerListTitle__Qh_v_">Portas de Alumínio</h3>
+                                        </a>
+                                    </li>
+                                    <li class="Footer_footerListItem__8rISt">
+                                        <a class="Footer_footerLink__ZTSoQ" href="/grupos-de-produtos/portas-aluminio-pt/brisa-pt">Brisa</a>
+                                    </li>
+                                    <li class="Footer_footerListItem__8rISt">
+                                        <a class="Footer_footerLink__ZTSoQ" href="/grupos-de-produtos/portas-aluminio-pt/duo-pt">Duo</a>
+                                    </li>
+                                    <li class="Footer_footerListItem__8rISt">
+                                        <a class="Footer_footerLink__ZTSoQ" href="/grupos-de-produtos/portas-aluminio-pt/era-pt">Era</a>
+                                    </li>
+                                    <li class="Footer_footerListItem__8rISt">
+                                        <a class="Footer_footerLink__ZTSoQ" href="/grupos-de-produtos/portas-aluminio-pt/lira-pt">Lira</a>
+                                    </li>
+                                    <li class="Footer_footerListItem__8rISt">
+                                        <a class="Footer_footerLink__ZTSoQ" href="/grupos-de-produtos/portas-aluminio-pt/lumi-pt">Lumi</a>
+                                    </li>
+                                    <li class="Footer_footerListItem__8rISt">
+                                        <a class="Footer_footerLink__ZTSoQ" href="/grupos-de-produtos/portas-aluminio-pt/eon-pt">Éon</a>
+                                    </li>
+                                    <li class="Footer_footerListItem__8rISt">
+                                        <a class="Footer_footerLink__ZTSoQ" href="/grupos-de-produtos/portas-madeira-pt">
+                                            <h3 class="Footer_footerListTitle__Qh_v_">Portas de Madeira</h3>
+                                        </a>
+                                    </li>
+                                    <li class="Footer_footerListItem__8rISt">
+                                        <a class="Footer_footerLink__ZTSoQ" href="/grupos-de-produtos/portas-madeira-pt/duna-pt">Duna</a>
+                                    </li>
+                                    <li class="Footer_footerListItem__8rISt">
+                                        <a class="Footer_footerLink__ZTSoQ" href="/grupos-de-produtos/portas-madeira-pt/risca-pt">Risca</a>
+                                    </li>
+                                    <li class="Footer_footerListItem__8rISt">
+                                        <a class="Footer_footerLink__ZTSoQ" href="/grupos-de-produtos/portas-madeira-pt/senso-pt">Senso</a>
+                                    </li>
+                                    <li class="Footer_footerListItem__8rISt">
+                                        <a class="Footer_footerLink__ZTSoQ" href="/grupos-de-produtos/portas-madeira-pt/soho-pt">Soho</a>
+                                    </li>
+                                    <li class="Footer_footerListItem__8rISt"></li>
+                                    <li class="Footer_footerListItem__8rISt"></li>
+                                    <li class="Footer_footerListItem__8rISt">
+                                        <a class="Footer_footerLink__ZTSoQ" href="/grupos-de-produtos/sistema-aluminio-pt">
+                                            <h3 class="Footer_footerListTitle__Qh_v_">Revestimentos</h3>
+                                        </a>
+                                    </li>
+                                    <li class="Footer_footerListItem__8rISt">
+                                        <a class="Footer_footerLink__ZTSoQ" href="/grupos-de-produtos/sistema-aluminio-pt/sistema-aluminio-pt">Sistema de alumínio para revestimentos</a>
+                                    </li>
+                                    <li class="Footer_footerListItem__8rISt"></li>
+                                </ul>
+                            </div>
+                            <div class="Footer_footerColumn__5YSGH">
+                                <ul class="Footer_footerList__2d0L6">
+                                    <li class="Footer_footerListItem__8rISt Footer_footerListItemHideMobile__j7wHo">
+                                        <a class="Footer_footerLink__ZTSoQ" href="/institucional">
+                                            <h3 class="Footer_footerListTitle__Qh_v_">Institucional</h3>
+                                        </a>
+                                    </li>
+                                    <li class="Footer_footerListItem__8rISt"></li>
+                                    <li class="Footer_footerListItem__8rISt">
+                                        <a class="Footer_footerLink__ZTSoQ" href="/franquias">
+                                            <h3 class="Footer_footerListTitle__Qh_v_">Franquias</h3>
+                                        </a>
+                                    </li>
+                                    <li class="Footer_footerListItem__8rISt"></li>
+                                    <li class="Footer_footerListItem__8rISt Footer_footerListItemHighlight__4CkvN">
+                                        <a class="Footer_footerLink__ZTSoQ" href="/contato">Contato</a>
+                                    </li>
+                                    <li class="Footer_footerListItem__8rISt"></li>
+                                    <li class="Footer_footerListItem__8rISt">
+                                        <a class="Footer_footerLink__ZTSoQ" href="/faca-parte">Faça Parte</a>
+                                    </li>
+                                    <li class="Footer_footerListItem__8rISt"></li>
+                                    <li class="Footer_footerListItem__8rISt">
+                                        <a class="Footer_footerLink__ZTSoQ" href="/dados-pessoais">Dados Pessoais</a>
+                                    </li>
+                                    <li class="Footer_footerListItem__8rISt"></li>
+                                    <li class="Footer_footerListItem__8rISt">
+                                        <a class="Footer_footerLink__ZTSoQ" href="/politica-de-privacidade">Política de Privacidade</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="Footer_footerCompanyInfo__7WN0n">
+                            <p class="Footer_footerCompanyInfoCopyrightText__GVvMJ">Copyright ©️ 2023. Todos os direitos reservados.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="Toastify"></div>
+            </div>
+        </div>
+        <script id="__NEXT_DATA__" type="application/json">
+            {
+                "props": {
+                    "pageProps": {
+                        "lngDict": {
+                            "languages": {
+                                "pt": "Português",
+                                "en": "Inglês",
+                                "es": "Espanhol"
+                            },
+                            "routes": {
+                                "contact": "contato",
+                                "favorites": "favoritos",
+                                "finishes": "acabamentos",
+                                "privacyPolicy": "politica-de-privacidade",
+                                "search": "pesquisa",
+                                "institutional": "institucional",
+                                "highEnd": "high-end",
+                                "stores": "franquias",
+                                "termsOfUse": "termos-de-uso",
+                                "productGroups": "grupos-de-produtos",
+                                "storeGroups": "grupos-de-franquias",
+                                "beAFranchisee": "seja-um-franqueado",
+                                "join": "faca-parte",
+                                "personalData": "dados-pessoais",
+                                "qualityAndEnvironmentPolicy": "politica-de-qualidade-e-meio-ambiente"
+                            },
+                            "footer": {
+                                "finishes": "Acabamentos",
+                                "about": "Sobre",
+                                "greenCompany": "Empresa Verde",
+                                "stores": "Franquias",
+                                "qualityEnvironmentPolicy": "Sustentabilidade",
+                                "3DFiles": "Arquivos 3D",
+                                "contact": "Contato",
+                                "join": "Faça Parte",
+                                "beAFranchisee": "Seja um Franqueado",
+                                "personalData": "Dados Pessoais",
+                                "privacyPolicy": "Política de Privacidade",
+                                "termsOfUse": "Termos de Uso",
+                                "institutional": "Institucional",
+                                "copyright": "Copyright ©️ 2022. Todos os direitos reservados. Fábrica de Móveis Florense Ltda.\nAv. 25 de Julho, 4090 - CEP 95270-000 - Flores da Cunha - RS - Brasil"
+                            },
+                            "gallery": {
+                                "thumbs": "Miniaturas",
+                                "zoomIn": "Mais zoom",
+                                "zoomOut": "Menos zoom",
+                                "close": "Fechar",
+                                "slideshowStart": "Ligar slideshow",
+                                "slideshowPause": "Desligar slideshow",
+                                "slideButtonsPrevious": "Anterior",
+                                "slideButtonsNext": "Próximo",
+                                "share": "Compartilhar",
+                                "favorite": "Favoritar"
+                            },
+                            "home": {
+                                "title": "Home"
+                            },
+                            "stores": {
+                                "title": "Franquias",
+                                "filter": {
+                                    "text": "Encontre sua Florense",
+                                    "country": "País",
+                                    "countryNoOptions": "Nenhum país encontrado",
+                                    "state": "UF",
+                                    "stateNoCountry": "Selecione um país",
+                                    "stateNoOptions": "Nenhum estado encontrado",
+                                    "stateLoadingOptions": "Buscando estados...",
+                                    "stateLoadingError": "Problema ao buscar estados",
+                                    "city": "Cidade",
+                                    "cityNoState": "Selecione um estado",
+                                    "cityNoOptions": "Nenhuma cidade encontrada",
+                                    "cityLoadingOptions": "Buscando cidades...",
+                                    "cityLoadingError": "Problema ao buscar cidades"
+                                },
+                                "list": {
+                                    "emptyMessage": "Nenhuma loja encontrada!",
+                                    "errorMessage": "Ocorreu um problema ao buscar as lojas!"
+                                },
+                                "details": {
+                                    "scheduling": "Agendamento"
+                                }
+                            },
+                            "favorites": {
+                                "title": "Favoritos",
+                                "list": {
+                                    "emptyMessage": "Seus favoritos aparecerão aqui!",
+                                    "errorMessage": "Ocorreu um problema ao buscar seus favoritos!"
+                                }
+                            },
+                            "finishes": {
+                                "title": "Acabamentos",
+                                "list": {
+                                    "emptyMessage": "Nenhum acabamento encontrado!",
+                                    "errorMessage": "Ocorreu um problema ao buscar os acabamentos!"
+                                }
+                            },
+                            "search": {
+                                "title": "Pesquisa",
+                                "field": {
+                                    "placeholder": "Pesquisar"
+                                },
+                                "list": {
+                                    "title": "Resultados",
+                                    "emptyMessage": "Nenhum resultado encontrado!",
+                                    "errorMessage": "Ocorreu um problema ao pesquisar!",
+                                    "noKeywordMessage": "Comece a digitar para pesquisar!"
+                                }
+                            },
+                            "products": {
+                                "title": "Produtos",
+                                "list": {
+                                    "emptyMessage": "Nenhum produto encontrado!",
+                                    "errorMessage": "Ocorreu um problema ao buscar os produtos!"
+                                },
+                                "details": {
+                                    "finishes": "Acabamentos",
+                                    "warranty": "Garantia",
+                                    "datasheet": "Ficha técnica",
+                                    "2DFiles": "Arquivos 2D",
+                                    "3DFiles": "Arquivos 3D"
+                                }
+                            },
+                            "productModels": {
+                                "title": "Modelos",
+                                "list": {
+                                    "emptyMessage": "Nenhum modelo encontrado!",
+                                    "errorMessage": "Ocorreu um problema ao buscar os modelos!"
+                                },
+                                "details": {
+                                    "finishes": "Acabamentos",
+                                    "warranty": "Garantia",
+                                    "datasheet": "Ficha técnica",
+                                    "2DFiles": "Arquivos 2D",
+                                    "3DFiles": "Arquivos 3D"
+                                }
+                            },
+                            "institutional": {
+                                "title": "Institucional"
+                            },
+                            "highEnd": {
+                                "title": "High-end"
+                            },
+                            "qualityEnvironmentPolicy": {
+                                "title": "Política de qualidade e meio ambiente"
+                            },
+                            "forms": {
+                                "legend": "Campos obrigatórios*",
+                                "name": "Nome",
+                                "country": "País",
+                                "state": "Estado",
+                                "stateNoCountry": "Selecione um país",
+                                "stateNoOptions": "Nenhum estado encontrado",
+                                "stateLoadingOptions": "Buscando estados...",
+                                "stateLoadingError": "Problema ao buscar estados",
+                                "city": "Cidade",
+                                "cityNoState": "Selecione um estado",
+                                "cityNoOptions": "Nenhuma cidade encontrada",
+                                "cityLoadingOptions": "Buscando cidades...",
+                                "cityLoadingError": "Problema ao buscar cidades",
+                                "email": "Email",
+                                "emailTitle": "exemplo@exemplo.exemplo",
+                                "phone": "Telefone",
+                                "message": "Mensagem",
+                                "send": "Enviar",
+                                "emailSuccess": "Email enviado com sucesso!",
+                                "emailError": "Erro ao enviar email!",
+                                "contact": {
+                                    "title": "Olá!\nEntre em contato conosco.\nEstamos sempre prontos a ouvir suas\ndúvidas, críticas e sugestões.",
+                                    "subject": "Assunto"
+                                },
+                                "franchisee": {
+                                    "title": "Olá!\nDeseja se tornar um franqueado Florense?\nEntre em contato conosco.",
+                                    "address": "Endereço",
+                                    "ownAnotherBusiness": "Possui outro negócio",
+                                    "anotherBusinessDescription": "Descreva seu negócio",
+                                    "franchiseCity": "Cidade para franquia"
+                                },
+                                "join": {
+                                    "title": "Olá!\nDeseja fazer parte da equipe Florense Inside?\nEntre em contato conosco.",
+                                    "for": "Para ",
+                                    "factory": "Empresa, ",
+                                    "franchise": "Franquia, ",
+                                    "clickHere": "Clique aqui!",
+                                    "fillDataBelow": "preencha os dados abaixo:",
+                                    "desiredFranchise": "Franquia desejada",
+                                    "fileMessage": "Arraste ou clique para adicionar seu currículo, em formato PDF!",
+                                    "invalidFileMessage": "Formato de arquivo inválido! Deve ser PDF!",
+                                    "validFileMessage": "Formato de arquivo válido!"
+                                },
+                                "personalData": {
+                                    "title": "Olá!\nDeseja personalizar a utilização de seus dados pessoais?\nEntre em contato conosco.",
+                                    "lgpdDefinition": "A Lei Geral de Proteção de Dados (LGPD) cria um marco legal para a proteção de dados pessoais no Brasil. Ela estabelece direitos aos indivíduos e obrigações para as organizações que tratam dados pessoais. A Florense Inside, através deste formulário, viabiliza que os titulares dos dados pessoais possam exercer seus direitos. Para isso, selecione por gentileza qual direito deseja exercer, conforme itens abaixo.",
+                                    "emailInfo": "Você receberá no e-mail informado a validação da solicitação aqui formulada, junto com orientações para confirmação de sua identidade. Após, os nossos encarregados lhe responderão em até 15 dias."
+                                }
+                            },
+                            "general": {
+                                "buttons": {
+                                    "show": "Ver",
+                                    "showAll": "Ver todos",
+                                    "hide": "Recolher",
+                                    "hideAll": "Recolher todos",
+                                    "clear": "Limpar"
+                                }
+                            }
+                        },
+                        "userConsent": {
+                            "title": "Mensagem de Consentimento",
+                            "text": "Nós usamos cookies e outras tecnologias semelhantes para melhorar a sua experiência em nossos serviços, personalizar publicidade e recomendar  conteúdo de seu interesse. Para mais informações, incluindo como configurar as permissões dos cookies, consulte a nossa nova Política de Privacidade."
+                        },
+                        "generalInfo": {
+                            "instagram": "https://www.instagram.com/florenseoficial",
+                            "facebook": "https://www.facebook.com/florensemoveis/",
+                            "youtube": null,
+                            "companyName": null,
+                            "companyAddress": null,
+                            "companyPostalCode": null,
+                            "companyCity": null,
+                            "companyState": null,
+                            "companyCountry": null,
+                            "companyPhone": null,
+                            "companyPhoneCode": null,
+                            "copyright": "Copyright ©️ 2023. Todos os direitos reservados."
+                        },
+                        "banners": [
+                            {
+                                "id": 1,
+                                "type": "empty",
+                                "backgroundType": "image",
+                                "backgroundUrl": "https://repos.flomagazine.com.br/media/imagem/Banners3_iQr2SL2.jpg",
+                                "backgroundPlaying": false,
+                                "backgroundPoster": null,
+                                "parallaxStrength": 300,
+                                "subtitle": "-",
+                                "subtitleUrl": null,
+                                "subtitleUrlOpenNewTab": false,
+                                "title": "-"
+                            },
+                            {
+                                "id": 2,
+                                "type": "title",
+                                "backgroundType": "image",
+                                "backgroundUrl": "https://repos.flomagazine.com.br/media/imagem/Banners2_KyX3dm2.jpg",
+                                "backgroundPlaying": false,
+                                "backgroundPoster": null,
+                                "parallaxStrength": 300,
+                                "subtitle": "ASSISTA",
+                                "subtitleUrl": "/institucional",
+                                "subtitleUrlOpenNewTab": false,
+                                "title": "VÍDEOS INSIDE"
+                            },
+                            {
+                                "id": 4,
+                                "type": "stores",
+                                "backgroundType": "image",
+                                "backgroundUrl": "https://repos.flomagazine.com.br/media/imagem/Banners_IYzdP2D.jpg",
+                                "backgroundPlaying": false,
+                                "backgroundPoster": null,
+                                "parallaxStrength": 300,
+                                "subtitle": "Encontre as Lojas",
+                                "subtitleUrl": "/franquias",
+                                "subtitleUrlOpenNewTab": false,
+                                "title": "LOJAS"
+                            }
+                        ],
+                        "storeGroups": [
+                        ],
+                        "productGroups": [
+                            {
+                                "label": "Portas de Alumínio",
+                                "slug": "portas-aluminio-pt"
+                            },
+                            {
+                                "label": "Portas de Madeira",
+                                "slug": "portas-madeira-pt"
+                            },
+                            {
+                                "label": "Revestimentos",
+                                "slug": "sistema-aluminio-pt"
+                            }
+                        ],
+                        "productGroupsWithProducts": [
+                            {
+                                "label": "Portas de Alumínio",
+                                "slug": "portas-aluminio-pt",
+                                "products": [
+                                    {
+                                        "label": "Brisa",
+                                        "slug": "brisa-pt"
+                                    },
+                                    {
+                                        "label": "Duo",
+                                        "slug": "duo-pt"
+                                    },
+                                    {
+                                        "label": "Era",
+                                        "slug": "era-pt"
+                                    },
+                                    {
+                                        "label": "Lira",
+                                        "slug": "lira-pt"
+                                    },
+                                    {
+                                        "label": "Lumi",
+                                        "slug": "lumi-pt"
+                                    },
+                                    {
+                                        "label": "Éon",
+                                        "slug": "eon-pt"
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "Portas de Madeira",
+                                "slug": "portas-madeira-pt",
+                                "products": [
+                                    {
+                                        "label": "Duna",
+                                        "slug": "duna-pt"
+                                    },
+                                    {
+                                        "label": "Risca",
+                                        "slug": "risca-pt"
+                                    },
+                                    {
+                                        "label": "Senso",
+                                        "slug": "senso-pt"
+                                    },
+                                    {
+                                        "label": "Soho",
+                                        "slug": "soho-pt"
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "Revestimentos",
+                                "slug": "sistema-aluminio-pt",
+                                "products": [
+                                    {
+                                        "label": "Sistema de alumínio para revestimentos",
+                                        "slug": "sistema-aluminio-pt"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "__N_SSG": true
+                },
+                "page": "/",
+                "query": {
+                },
+                "buildId": "KF9_9Ei4NKNqdwFBt9d1a",
+                "isFallback": false,
+                "gsp": true,
+                "locale": "pt",
+                "locales": [
+                    "pt"
+                ],
+                "defaultLocale": "pt",
+                "scriptLoader": [
+                ]
+            }</script>
+    </body>
+</html>
